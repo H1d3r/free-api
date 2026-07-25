@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2026-07-25
+### 本月更新的接口有：[字符串加密](#681)，[台风路径](#680)，[实时台风](#679)。
+* **<a id="681">字符串加密</a>(可在线调用):** 提供多种哈希加密算法支持，包括MD4、M... [接口地址](https://www.free-api.com/doc/681)
+
 # 2026-06-10
 ### 本月更新的接口有：[台风路径](#680)，[实时台风](#679)。
 * **<a id="680">台风路径</a>(可在线调用):** 通过台风id查询当前台风的路径详情信息 [接口地址](https://www.free-api.com/doc/680)
